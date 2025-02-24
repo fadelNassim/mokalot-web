@@ -1,8 +1,8 @@
 {
   "productName": "Mokalot",
   "theme": {
-    "color": "Peach",
-    "isDark": false
+    "color": "red",
+    "isDark": true
   },
   "heroSection": {
     "title": [
