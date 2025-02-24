@@ -1,7 +1,7 @@
 {
   "productName": "Mokalot",
   "theme": {
-    "color": "red",
+    "color": "peach",
     "isDark": true
   },
   "heroSection": {
@@ -14,11 +14,11 @@
         "isGradient": true
       },
       {
-        "text": " Mokalot Dried Mango"
+        "text": " Mokalot Dried Peach"
       }
     ],
-    "description": "Meticulously dried and packed in natural mango skin, Mokalot's mangoes offer a burst of tropical sweetness any time you need it. Treat yourself to a healthy snack that's simply delicious and rich in nutrients!",
-    "imageUrl": "https://purepng.com/public/uploads/large/purepng.com-mango-slicefruitsmangodrupe-9815251831720ncmv.png",
+    "description": "Meticulously dried and packed in natural peach skin, Mokalot's peaches offer a burst of fruity sweetness any time you need it. Treat yourself to a healthy snack that's simply delicious and rich in nutrients!",
+    "imageUrl": "https://example.com/peach-image.jpg",
     "buttonText": "Shop Now"
   },
   "pricing": {
@@ -195,10 +195,10 @@
       "title": "After Mokalot",
       "points": [
         "Health and taste in one bite",
-        "100% natural dried mango",
+        "100% natural dried peach",
         "Packaging that respects nature",
-        "Experience tropical flavors anytime, anywhere",
-        "It’s not just dried mango, it’s a fruity escape"
+        "Experience fruity flavors anytime, anywhere",
+        "It’s not just dried peach, it’s a fruity escape"
       ]
     }
   },
