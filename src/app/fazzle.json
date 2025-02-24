@@ -1,18 +1,25 @@
 {
-  "productName": "Magical Deals",
+  "productName": "Mokalot",
   "theme": {
-    "isDark": true,
-    "color": "teal"
+    "color": "Peach",
+    "isDark": false
   },
   "heroSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "App", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "Delight in Every Bite,"
+      },
+      {
+        "text": "Discover",
+        "isGradient": true
+      },
+      {
+        "text": " Mokalot Dried Mango"
+      }
     ],
-    "description": "Fazzle.ia helps companies expand globally with seamless collaboration, making it easier to build and manage teams in 180+ countries.",
-    "imageUrl": "https://essentials.pixfort.com/saas/wp-content/uploads/sites/3/2020/05/saas-intro-mockup.png",
-    "buttonText": "Get Started"
+    "description": "Meticulously dried and packed in natural mango skin, Mokalot's mangoes offer a burst of tropical sweetness any time you need it. Treat yourself to a healthy snack that's simply delicious and rich in nutrients!",
+    "imageUrl": "https://purepng.com/public/uploads/large/purepng.com-mango-slicefruitsmangodrupe-9815251831720ncmv.png",
+    "buttonText": "Shop Now"
   },
   "pricing": {
     "settings": {
@@ -160,32 +167,38 @@
       }
     ]
   },
-
   "problemSection": {
     "title": [
-      { "text": "Create the best" },
-      { "text": "Gadget", "isGradient": true },
-      { "text": "in the world" }
+      {
+        "text": "The Quest for"
+      },
+      {
+        "text": "Healthy,",
+        "isGradient": true
+      },
+      {
+        "text": "Tasty Snacks Ends Here"
+      }
     ],
-    "description": "Make data-driven decisions about where to invest your marketing budget, when to hire, and where there are opportunities for improvement.",
+    "description": "On the hunt for a healthy, yet enjoyable snack? Struggling to find something natural, free of additives, and absolutely tasty?",
     "problem": {
-      "title": "Before Using Databox",
+      "title": "Before Mokalot",
       "points": [
-        "Data is scattered across multiple tools and teams",
-        "It takes too long to get the information you need",
-        "It's difficult to gain insights from your data",
-        "Decisions are based on intuition and assumptions",
-        "Creating reports manually takes a lot of time"
+        "Settling for unhealthy snacks",
+        "Additive-loaded dried fruits",
+        "Sacrificing taste for health",
+        "Packaging that harms the environment",
+        "Lack of on-the-go snacking options"
       ]
     },
     "solution": {
-      "title": "After Using Databox",
+      "title": "After Mokalot",
       "points": [
-        "A centralized source of truth for data",
-        "Your team or clients can access the answers they need instantly",
-        "Clear visibility into company performance",
-        "Better decisions informed by data",
-        "Less time on reporting, more time on strategy"
+        "Health and taste in one bite",
+        "100% natural dried mango",
+        "Packaging that respects nature",
+        "Experience tropical flavors anytime, anywhere",
+        "It’s not just dried mango, it’s a fruity escape"
       ]
     }
   },
@@ -228,31 +241,67 @@
     "menu": {
       "title": "Menu",
       "items": [
-        { "name": "Home", "route": "/" },
-        { "name": "Services", "route": "/services" },
-        { "name": "Products", "route": "/products" },
-        { "name": "Pricing", "route": "/pricing" }
+        {
+          "name": "Home",
+          "route": "/"
+        },
+        {
+          "name": "Services",
+          "route": "/services"
+        },
+        {
+          "name": "Products",
+          "route": "/products"
+        },
+        {
+          "name": "Pricing",
+          "route": "/pricing"
+        }
       ]
     },
     "resources": {
       "title": "Resources",
       "items": [
-        { "name": "Documentation", "route": "/docs" },
-        { "name": "API Reference", "route": "/api" }
+        {
+          "name": "Documentation",
+          "route": "/docs"
+        },
+        {
+          "name": "API Reference",
+          "route": "/api"
+        }
       ]
     },
     "legal": {
       "title": "Legal Information",
       "items": [
-        { "name": "Privacy Policy", "route": "/privacy" },
-        { "name": "Terms & Conditions", "route": "/terms" }
+        {
+          "name": "Privacy Policy",
+          "route": "/privacy"
+        },
+        {
+          "name": "Terms & Conditions",
+          "route": "/terms"
+        }
       ]
     },
     "socialLinks": [
-      { "name": "facebook", "link": "#" },
-      { "name": "tiktok", "link": "#" },
-      { "name": "vk", "link": "#" },
-      { "name": "dribbble", "link": "#" }
+      {
+        "name": "facebook",
+        "link": "#"
+      },
+      {
+        "name": "tiktok",
+        "link": "#"
+      },
+      {
+        "name": "vk",
+        "link": "#"
+      },
+      {
+        "name": "dribbble",
+        "link": "#"
+      }
     ],
     "copyright": "© 2024 Bekets. All Rights Reserved."
   },
